@@ -38,7 +38,7 @@ A platform which can connect patients with best doctors from around the world.
 
 
 
-# <a href="https://dockseek-frontend-dqis.vercel.app/">Quizzo</a>
+# <a href="https://kahoot-frontend.vercel.app/">Quizzo</a>
 
 #### About
 This is a Full-Stack App.
@@ -55,15 +55,36 @@ A platform where teacher can create their own quizes and teachers and students c
  <img src = "https://github.com/Moinshaikh15/kahoot-frontend/blob/master/public/screenshots/createpage.png" alt="create page" width="48%"/>
  <img src = "https://github.com/Moinshaikh15/kahoot-frontend/blob/master/public/screenshots/gamestartingpage.png" alt = "quiz starting page" width="48%"/> 
  <img src = "https://github.com/Moinshaikh15/kahoot-frontend/blob/master/public/screenshots/quizpageteacher.png" alt = "quiz page teacher" width="48%"/> 
+ <img src = "https://github.com/Moinshaikh15/kahoot-frontend/blob/master/public/screenshots/podium.png" alt = "poduim" width="48%"/>
 </div>
 
 ## Student page
  <div style="dispaly: flex: justify-content: center">
-  <img src = "https://github.com/Moinshaikh15/kahoot-frontend/blob/master/public/screenshots/pinenter.png" alt = "quiq page student" width="48%"/> 
-  <img src = "https://github.com/Moinshaikh15/kahoot-frontend/blob/master/public/screenshots/podium.png" alt = "poduim" width="48%"/> 
+  <img src = "https://github.com/Moinshaikh15/kahoot-frontend/blob/master/public/screenshots/pinenter.png" alt = "quiq page student" width="48%"/>  
   <img src = "https://github.com/Moinshaikh15/kahoot-frontend/blob/master/public/screenshots/quizpagestudent.png" alt = "quiq page student" width="48%"/> 
  </div>
 
+
+
+
+# <a href="https://spotify-profile-mf.vercel.app/">Spotify Profile App</a>
+
+#### About
+Spotify Profile overview app which will fetch a Spotify user's info, recent activity, favorite tracks, favorite artists, and playlists.
+
+#### ⚡️ Built with
+- ReactJS
+- React-router-dom
+<div style="dispaly: flex: justify-content: center">
+ <img src = "https://github.com/Moinshaikh15/day-33-spotifyProfile/blob/master/public/login.png" alt = "home Page" width="48%" /> 
+ <img src = "https://github.com/Moinshaikh15/day-33-spotifyProfile/blob/master/public/sc/profilepag.png" alt="create page" width="48%"/>
+ <img src = "https://github.com/Moinshaikh15/day-33-spotifyProfile/blob/master/public/sc/artists.png" alt = "quiz starting page" width="48%"/> 
+ <img src = "https://github.com/Moinshaikh15/day-33-spotifyProfile/blob/master/public/sc/playlist.png" alt = "quiz page teacher" width="48%"/> 
+
+</div>
+
+<br/>
+<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moinshaikh15&show_icons=true&locale=en&layout=compact" alt="moinshaikh15" /></p>
 
