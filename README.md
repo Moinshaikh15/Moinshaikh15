@@ -86,8 +86,8 @@ Spotify Profile overview app which will fetch a Spotify user's info, recent acti
 <br/>
 <br/>
 
+ <div style="dispaly: flex: justify-content: center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moinshaikh15&show_icons=true&locale=en&layout=compact" alt="moinshaikh15" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moinshaikh15&show_icons=true&locale=en" alt="moinshaikh15" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moinshaikh15&" alt="moinshaikh15" /></p>
+</div>
