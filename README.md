@@ -86,6 +86,22 @@ Spotify Profile overview app which will fetch a Spotify user's info, recent acti
 
 </div>
 
+# <a href="https://kahoot-frontend.vercel.app">Meta Mask Wallet</a>
+
+#### About
+With this app you can connect to your Meta Mask Wallet. Once you're connected you can see your account address and Etherium balance
+
+#### ⚡️ Built with
+- ReactJS
+- EtherJS
+
+<div style="dispaly: flex: justify-content: center">
+ <img src = "https://github.com/Moinshaikh15/metamask/blob/master/public/images/home%20page.png" alt = "home Page" width="48%" /> 
+ <img src = "https://github.com/Moinshaikh15/metamask/blob/master/public/images/popup.png" alt="popup for authentication" width="48%"/>
+ <img src = "https://github.com/Moinshaikh15/metamask/blob/master/public/images/allow%20and%20connect.png" alt = "connect to wallet" width="48%"/> 
+ <img src = "https://github.com/Moinshaikh15/metamask/blob/master/public/images/account%20info.png" alt = "account info" width="48%"/> 
+</div>
+
 <br/>
 <br/>
 
