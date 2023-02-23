@@ -10,6 +10,8 @@
 <a href="https://www.linkedin.com/in/moin-shaikh-56970b235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moin shaikh" height="30" width="40" /></a>
 </p>
 
+<p><a href="https://www.upwork.com/freelancers/~01726571141e12b1a6" target="blank">Upwork</a></p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
