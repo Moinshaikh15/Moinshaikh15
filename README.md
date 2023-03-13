@@ -69,6 +69,8 @@ A platform where teacher can create their own quizes and teachers and students c
   <img src = "https://github.com/Moinshaikh15/kahoot-frontend/blob/master/public/screenshots/quizpagestudent.png" alt = "quiq page student" width="48%"/> 
  </div>
 
+## Demo 
+https://www.loom.com/share/ccdf139e0fe045a8afaf4b5a4b690922
 
 
 
