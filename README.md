@@ -41,6 +41,10 @@ A platform which can connect patients with best doctors from around the world.
  <img src = "https://github.com/Moinshaikh15/dockseek-frontend/blob/master/public/screenshots/docseekappoinmentbook.png" alt = "appointment" width="48%"/> 
 </div>
 
+### Demo 
+https://www.loom.com/share/64f00da6da0743eeb89dc4d91d34bf86
+
+
 
 
 # <a href="https://kahoot-frontend.vercel.app/">Quizzo</a>
@@ -71,6 +75,7 @@ A platform where teacher can create their own quizes and teachers and students c
 
 ## Demo 
 https://www.loom.com/share/ccdf139e0fe045a8afaf4b5a4b690922
+
 
 
 
